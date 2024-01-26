@@ -29,7 +29,7 @@ namespace App1
         public MainWindow()
         {
             this.InitializeComponent();
-            AppWindow.Resize(new SizeInt32(600, 1366));
+            //AppWindow.Resize(new SizeInt32(600, 1366));
             
         }
        
